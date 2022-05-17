@@ -1,0 +1,31 @@
+2022-05-16 17:38:27.431  INFO 8888 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Starting SpringbootMvcjspday42Application using Java 17.0.2 on JOBIAK-FR-05 with PID 8888 (C:\Users\JOBIAK\Downloads\springboot-mvcjspday42\springboot-mvcjspday42\target\classes started by JOBIAK in C:\Users\JOBIAK\Downloads\springboot-mvcjspday42\springboot-mvcjspday42)
+2022-05-16 17:38:27.431  INFO 8888 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 17:38:27.535  INFO 8888 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-16 17:38:27.536  INFO 8888 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 17:38:27.537  INFO 8888 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-16 17:38:27.562  INFO 8888 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-05-16 17:38:27.563  INFO 8888 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 17:38:27.563  INFO 8888 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 130 ms
+2022-05-16 17:38:27.604  INFO 8888 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-16 17:38:27.611  INFO 8888 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-16 17:38:27.615  INFO 8888 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Started SpringbootMvcjspday42Application in 0.209 seconds (JVM running for 191.798)
+2022-05-16 17:38:27.616  INFO 8888 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-05-16 17:38:32.222  INFO 8888 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-05-16 17:38:42.723  INFO 20500 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Starting SpringbootMvcjspday42Application using Java 17.0.2 on JOBIAK-FR-05 with PID 20500 (C:\Users\JOBIAK\Downloads\springboot-mvcjspday42\springboot-mvcjspday42\target\classes started by JOBIAK in C:\Users\JOBIAK\Downloads\springboot-mvcjspday42\springboot-mvcjspday42)
+2022-05-16 17:38:42.724  INFO 20500 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : No active profile set, falling back to 1 default profile: "default"
+2022-05-16 17:38:42.759  INFO 20500 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-16 17:38:42.759  INFO 20500 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-16 17:38:43.354  INFO 20500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-16 17:38:43.361  INFO 20500 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-16 17:38:43.361  INFO 20500 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-16 17:38:43.465  INFO 20500 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-05-16 17:38:43.473  INFO 20500 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-16 17:38:43.473  INFO 20500 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 713 ms
+2022-05-16 17:38:43.700  INFO 20500 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-16 17:38:43.731  INFO 20500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-16 17:38:43.739  INFO 20500 --- [restartedMain] c.j.s.SpringbootMvcjspday42Application   : Started SpringbootMvcjspday42Application in 1.277 seconds (JVM running for 1.826)
+2022-05-16 17:38:51.676  INFO 20500 --- [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-16 17:38:51.676  INFO 20500 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-16 17:38:51.677  INFO 20500 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-05-16 17:39:11.585  INFO 20500 --- [http-nio-8081-exec-1] c.j.s.controller.LoginController         : Entered get method
+2022-05-16 17:41:44.387  INFO 20500 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
